@@ -12,4 +12,11 @@ This repo has two files
     This is the docker file which has the instructions to build dockerized image
     for the python file findmacvend.py.
      
-    
+ 
+ Command Example at linux prompt:
+ 
+ wasim@kmaster:~/py$ python3 findmac.py 
+Enter mac address: DC:A2:66
+OUI vendor for mac DC:A2:66 is Hon Hai Precision Ind. Co, Ltd
+
+
