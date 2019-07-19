@@ -15,7 +15,7 @@ This repo has two files
  
  Command Example at linux prompt:
  
- wasim@kmaster:~/py$ python3 findmac.py 
+wasim@kmaster:~/py$ python3 findmac.py 
 Enter mac address: DC:A2:66
 OUI vendor for mac DC:A2:66 is Hon Hai Precision Ind. Co, Ltd
 
